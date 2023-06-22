@@ -1,6 +1,6 @@
 {
   "name": "pos-ui",
-  "version": "1.0.0",
+  "version": "1.0.0.dev",
   "private": true,
   "description": "pos-ui",
   "author": "tonyclint",
